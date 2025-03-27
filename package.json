@@ -1,0 +1,21 @@
+{
+  "name": "categorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^12.5.0",
+    "path": "^0.12.7"
+  }
+}
